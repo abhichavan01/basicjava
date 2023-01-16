@@ -3,7 +3,7 @@ package basics.conditional;
 import java.util.Scanner;
 
 public class Area {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
 
@@ -17,15 +17,21 @@ public class Area {
             case 'c':
                 System.out.print("Enter radius of circle: ");
                 double r = sc.nextDouble();
-                double ca = 3.142 * r * r;
-                System.out.println("Area of circle = " + ca);
+                if (r>0) {
+                    double ca = 3.142 * r * r;
+                    System.out.println("Area of circle = " + ca);
+                }else
+                    System.out.println("Invalid input! The value should not be negative");
                 break;
 
             case 's':
                 System.out.print("Enter side of square: ");
                 double side = sc.nextDouble();
-                double sa = side * side;
-                System.out.println("Area of square = " + sa);
+                if (side>0) {
+                    double sa = side * side;
+                    System.out.println("Area of square = " + sa);
+                }else
+                    System.out.println("Invalid input! The value should not be negative");
                 break;
 
             case 'r':
@@ -33,8 +39,12 @@ public class Area {
                 double l = sc.nextDouble();
                 System.out.print("Enter breadth of rectangle: ");
                 double b = sc.nextDouble();
-                double ra = l * b;
-                System.out.println("Area of rectangle = " + ra);
+
+                if ((l>0) && (b>0)) {
+                    double ra = l * b;
+                    System.out.println("Area of rectangle = " + ra);
+                }else
+                    System.out.println("Invalid input! The value should not be negative");
                 break;
 
             default:

@@ -11,12 +11,14 @@ public class FormationOfTriangle {
             a1 = sc.nextInt();
             a2 = sc.nextInt();
             a3 = sc.nextInt();
-            int sum=a1+a2+a3;
-            if (sum==180)
-                System.out.println("Triangle can be formed");
-            else
-                System.out.println("The triangle is not valid");
-
+            if (a1>0 && a2>0 && a3>0) {
+                int sum = a1 + a2 + a3;
+                if (sum == 180)
+                    System.out.println("Triangle can be formed");
+                else
+                    System.out.println("The triangle is not valid");
+            }else
+                System.out.println("Invalid input! The magnitude of the angle cannot be negative");
         }
         catch (Exception e){
             System.out.println("Invalid input");

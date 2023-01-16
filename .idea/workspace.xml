@@ -1,34 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4b5079f-8725-48c4-ba51-6d523aba5ee8" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Admission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/AlphabateVowel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Area.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Calculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/CheckCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/CheckTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Checking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Coordinates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/DaysInMonths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/DigitsToWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/DisplayDay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/DisplayHeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/DisplayMonthName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/DisplayValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/ElectricityBill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/EqualUnequal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/EvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/FormationOfTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Grading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Largest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/PositiveNegative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/ProfitLoss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Root.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Temperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Voter.java" afterDir="false" />
+    <list default="true" id="c4b5079f-8725-48c4-ba51-6d523aba5ee8" name="Changes" comment="Validated user input">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/conditional/Admission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/conditional/Admission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/conditional/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/conditional/Area.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/conditional/DisplayHeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/conditional/DisplayHeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/conditional/ElectricityBill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/conditional/ElectricityBill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/conditional/FormationOfTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/conditional/FormationOfTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/conditional/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/conditional/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/conditional/ProfitLoss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/conditional/ProfitLoss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/conditional/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/conditional/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/conditional/Voter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/conditional/Voter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +40,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Noobie/basicjava/src/basics/conditional"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Noobie/basicjava/src/basics/conditional&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -82,6 +68,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Validated user input" />
+    <option name="LAST_COMMIT_MESSAGE" value="Validated user input" />
   </component>
 </project>
