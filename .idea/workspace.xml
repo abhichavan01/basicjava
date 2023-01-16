@@ -1,14 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4b5079f-8725-48c4-ba51-6d523aba5ee8" name="Changes" comment="" />
+    <list default="true" id="c4b5079f-8725-48c4-ba51-6d523aba5ee8" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Admission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/AlphabateVowel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Calculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/CheckCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/CheckTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Checking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Coordinates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/DaysInMonths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/DigitsToWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/DisplayDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/DisplayHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/DisplayMonthName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/DisplayValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/ElectricityBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/EqualUnequal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/FormationOfTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Grading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Largest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/PositiveNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/ProfitLoss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Root.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Voter.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2KOlH9yDXyXzn7g6H7IigQJ3WTq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -16,7 +57,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Noobie/basicjava/src/basics/conditional"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -28,6 +70,18 @@
       <option name="presentableId" value="Default" />
       <updated>1673853424277</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1673853469229</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673853469229</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
