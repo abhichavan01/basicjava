@@ -1,35 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4b5079f-8725-48c4-ba51-6d523aba5ee8" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Admission.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/AlphabateVowel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Area.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Calculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/CheckCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/CheckTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Checking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Coordinates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/DaysInMonths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/DigitsToWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/DisplayDay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/DisplayHeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/DisplayMonthName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/DisplayValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/ElectricityBill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/EqualUnequal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/EvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/FormationOfTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Grading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Largest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/PositiveNegative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/ProfitLoss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Root.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Temperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/conditional/Voter.java" afterDir="false" />
-    </list>
+    <list default="true" id="c4b5079f-8725-48c4-ba51-6d523aba5ee8" name="Changes" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="conditional" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,13 +29,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Noobie/basicjava/src/basics/conditional"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Noobie/basicjava/src/basics/conditional&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Noobie\basicjava\src\basics\conditional" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
