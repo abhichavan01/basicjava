@@ -15,8 +15,9 @@ public class MultiTable {
                 for (i = 1; i <= n; i++) {
                     for (j = 1; j <= 10; j++) {
 
-                        System.out.print(n + " * " + i + " = " + n * i);
+                        System.out.print(" "+i + " * " + j + " = " + i * j+ " ");
                     }
+                    System.out.println();
                 }
             }
         else
