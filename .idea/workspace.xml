@@ -5,8 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4b5079f-8725-48c4-ba51-6d523aba5ee8" name="Changes" comment="Looping assignment">
+      <change afterPath="$PROJECT_DIR$/src/basics/looping/AlphabatePyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/looping/ArithmaticProgression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/looping/ArmstrongNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/looping/ArmstrongNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/looping/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/looping/GeometricProgression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/looping/HcfOfNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/looping/LcmByHcf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/looping/NewPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/looping/NumAndSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/looping/PalindromeNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/looping/PascalsTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/looping/ReverseNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/looping/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/looping/SeriesOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/looping/SquareNaturalNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/looping/StringLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/looping/StrongNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/looping/PyramidOfOddAestrics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/looping/FloydsTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/looping/PerfectInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/looping/PerfectInteger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674459521776</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Looping assignment">
+      <created>1674461587336</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674461587336</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -105,5 +130,16 @@
     <MESSAGE value="Validated user input" />
     <MESSAGE value="Looping assignment" />
     <option name="LAST_COMMIT_MESSAGE" value="Looping assignment" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basics/looping/ArmstrongNumbers.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
