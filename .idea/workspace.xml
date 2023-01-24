@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4b5079f-8725-48c4-ba51-6d523aba5ee8" name="Changes" comment="Looping assignment">
-      <change afterPath="$PROJECT_DIR$/src/basics/looping/BinToDec.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/basics/looping/PerfectNumbers.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/basics/looping/PrimeNumbers.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/basics/looping/StrongNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/looping/AlphabatePyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/looping/AlphabatePyramid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/looping/ArmstrongNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/looping/ArmstrongNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/looping/Newseries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/looping/Newseries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics/looping/PrimeNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/looping/PrimeNum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674497736291</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Looping assignment">
+      <created>1674552549822</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674552549822</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
