@@ -17,7 +17,7 @@ public class BinToDec {
                 num = num / 10;
                 i++;
             }
-            System.out.println(number);
+            System.out.println("The decimal conversion of given number is :"+number);
         } catch (Exception e) {
             System.out.println("Invalid input!");
         }
