@@ -15,7 +15,7 @@ class PrimeNum {
             for(i=2; i<=m; i++){
                 if(n%i==0){
                     System.out.println(n+" is not prime number");
-                    k=1;
+                    k++;
                 }
             }
             if(k==0)  { System.out.println(n+" is prime number");

@@ -20,7 +20,7 @@ public class ArmstrongNumbers {
                         check = check / 10;
                     }
                     if (sum == i) {
-                        System.out.println("" + i + " is an Armstrong number.");
+                        System.out.print( + i + ", " );
                     }
                 }
             }catch (Exception e) {

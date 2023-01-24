@@ -6,7 +6,7 @@ public class AlphabatePyramid {
     public static void main(String[] args)
         {
             int row, col, space, n ;
-            char last = 'E', alphabet = 'A';
+            char  alphabet = 'A';
             try {
                 Scanner sc = new Scanner(System.in);
                 System.out.print("Enter the value of n: ");

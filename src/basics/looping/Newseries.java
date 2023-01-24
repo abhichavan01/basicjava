@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Newseries {
     public static void main(String[] args) {
         int  i,n;
-        double x,Even, sum=0.0;
+        double x,Even, sum=0.0, fact = 0;
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the value of n: ");
         n = sc.nextInt();
@@ -15,7 +15,9 @@ public class Newseries {
             if (n > 0) {
                 for (i = 1; i <= n; i++) {
                     Even= 2*i;
-                    sum = 1-(Math.pow(x,Even)/Even);
+                    fact = fact * Even;
+
+                    sum = 1-((Math.pow(x,Even))/fact);
                 }
                 System.out.println("The sum is " + sum);
             } else
