@@ -9,15 +9,15 @@ public class Factorial {
         try {
             System.out.print("Enter the number: ");
             number = sc.nextInt();
-          if (number>0) {
+         if (number >= 0) {
               for (i = 1; i <= number; i++) {
                   fact = fact * i;
               }
               System.out.println("Factorial of " + number + " is: " + fact);
-          }
+         }
           else{
               System.out.println("The number should be positive");
-          }
+         }
         } catch (Exception e) {
             System.out.println("Invalid user input");
         }
