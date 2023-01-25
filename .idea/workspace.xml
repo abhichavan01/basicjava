@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4b5079f-8725-48c4-ba51-6d523aba5ee8" name="Changes" comment="Looping assignment">
-      <change afterPath="$PROJECT_DIR$/src/basics/looping/PerfectNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/looping/PrimeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics/looping/StrongNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/looping/SumOfTwoPrimes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +118,42 @@
       <option name="project" value="LOCAL" />
       <updated>1674552549822</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Looping assignment">
+      <created>1674555254247</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674555254247</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Looping assignment">
+      <created>1674555334375</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674555334375</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Looping assignment">
+      <created>1674557463158</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674557463158</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Looping assignment">
+      <created>1674560283060</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674560283060</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Looping assignment">
+      <created>1674566098135</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1674566098135</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -137,6 +170,15 @@
           <line>10</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basics/looping/DecToBin.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="14" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
