@@ -10,11 +10,11 @@ public class SumOfTwoPrimes {
             boolean flag = false;
             for (int i = 2; i <= number / 2; ++i) {
 
-                if (sum_of_primes(i)) {
+                if (primeNumber(i)) {
 
-                    if (sum_of_primes(number - i)) {
+                    if (primeNumber(number - i)) {
 
-                        System.out.printf(" %d can be expressed as the sum of %d and %d\n ", number, i, number - i);
+                        System.out.println( number+ " = " +i+ " + " +(number - i));
                         flag = true;
                     }
 
@@ -26,7 +26,7 @@ public class SumOfTwoPrimes {
         }
 
         //function to check if given number is prime or not
-        static boolean sum_of_primes(int num) {
+        static boolean primeNumber(int num) {
             boolean isPrime = true;
 
             for (int i = 2; i <= num / 2; ++i) {
