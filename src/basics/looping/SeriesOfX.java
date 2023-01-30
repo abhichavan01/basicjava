@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class SeriesOfX {
     public static void main(String[] args) {
         double x, sum = 0;
-        int n,sign ;
+        int n,sign=1 ;
         Scanner sc = new Scanner(System.in);
       try {
           System.out.print("Input the number of terms: ");
@@ -16,15 +16,11 @@ public class SeriesOfX {
           if (n > 0) {
               for (int i = 1, a = 1; i <= n; i++, a += 2) {
                   int terms;
-                  if (i % 2 == 0) {
-                      sign = -1;
-                  } else {
-                      sign = 1;
-                  }
                   terms = (int) (Math.pow(x, a));
                   terms = terms * sign;
                   System.out.print(terms + " + ");
                   sum = sum + terms;
+                  sign = sign * -1;
               }
               System.out.println();
               System.out.println("The sum of the series = " + sum);

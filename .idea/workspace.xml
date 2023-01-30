@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4b5079f-8725-48c4-ba51-6d523aba5ee8" name="Changes" comment="Looping assignment">
-      <change afterPath="$PROJECT_DIR$/src/basics/looping/SumOfTwoPrimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/looping/MethodForArmstrongNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/looping/MethodForFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics/looping/MethodForPrimeNums.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/looping/ArmstrongNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/looping/ArmstrongNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/looping/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/looping/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/looping/NewSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/looping/NewSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/looping/PrimeNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/looping/PrimeNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/looping/PrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/looping/PrimeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/looping/SeriesOfX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics/looping/SeriesOfX.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +54,21 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Noobie/basicjava/src/basics/conditional&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="FactorialMethod" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics.looping.FactorialMethod" />
+      <module name="basicjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.looping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -165,11 +188,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/basics/looping/ArmstrongNumbers.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/basics/looping/DecToBin.java</url>
           <line>10</line>

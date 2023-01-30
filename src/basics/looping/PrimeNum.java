@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 class PrimeNum {
     public static void main(String[] args) {
-        int i,m,k=0,n;
+        int i, m, k = 0, n;
         Scanner sc = new Scanner(System.in);
         System.out.println("Input the value to check given condition: ");
-        n= sc.nextInt();
+        n = sc.nextInt();
         m=n/2;
         if(n==0||n==1){
             System.out.println(n+" is not prime number");

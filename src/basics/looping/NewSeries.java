@@ -2,10 +2,10 @@ package basics.looping;
 
 import java.util.Scanner;
 
-public class NewSeries{
+public class NewSeries {
     public static void main(String[] args) {
         double x, sum = 0;
-        int n,sign =-1, fact=1 ;
+        int n, sign = -1;
         Scanner sc = new Scanner(System.in);
         try {
             System.out.print("Input the number of terms: ");
@@ -14,9 +14,10 @@ public class NewSeries{
             x = sc.nextDouble();
             if (n > 0) {
                 for (int i = 2; i <= 2 * n; i += 2) {
-                    fact = fact * i * (i-1);
-                    sum= sum + (sign * (Math.pow(x,i))/fact);
-                    sign= sign * (-1);
+                    MethodForFactorial object = new MethodForFactorial();
+                    int fact = object.factorial(i);
+                    sum = sum + (sign * (Math.pow(x, i)) / fact);
+                    sign = sign * (-1);
                 }
                 double result = 1 + sum;
                 System.out.println();
@@ -24,8 +25,7 @@ public class NewSeries{
             } else {
                 System.out.println("Invalid input!");
             }
-        }
-        catch (Exception e){
+        } catch (Exception e) {
             System.out.println("Invalid input!");
         }
     }
