@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class SeriesOne {
     public static void main(String[] args) {
-        int x, n, i, fact = 1;
+        int x, n, i;
         double total = 1.0;
         Scanner sc = new Scanner(System.in);
         try {
@@ -14,7 +14,8 @@ public class SeriesOne {
                 n = sc.nextInt();
             if (n > 0) {
                 for (i = 1; i < n; i++) {
-                    fact = fact * i;
+                    MethodForFactorial object = new MethodForFactorial();
+                    int fact = object.factorial(i);
                     total = total + Math.pow(x, i) / fact;
 
                 }

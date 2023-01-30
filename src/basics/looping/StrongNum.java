@@ -5,17 +5,17 @@ import java.util.Scanner;
 public class StrongNum {
     public static void main(String[] args) {
 
-        int i, num, n, sum=0, j, fact;
+        int i, num, n, sum=0, j, fact=1;
         Scanner sc = new Scanner(System.in);
      try {
-         System.out.println("Input a number to check whether it is Strong number: ");
+         System.out.print("Input a number to check whether it is Strong number: ");
          num = sc.nextInt();
          if (num>0) {
              n = num;
              for (j = num; j > 0; j = j / 10) {
-                 fact = 1;
                  for (i = 1; i <= j % 10; i++) {
-                     fact = fact * i;
+                     MethodForFactorial object = new MethodForFactorial();
+                      fact = object.factorial(i);
                  }
                  sum = sum + fact;
 
