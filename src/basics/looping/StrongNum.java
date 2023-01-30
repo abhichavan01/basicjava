@@ -15,7 +15,7 @@ public class StrongNum {
              for (j = num; j > 0; j = j / 10) {
                  for (i = 1; i <= j % 10; i++) {
                      MethodForFactorial object = new MethodForFactorial();
-                      fact = object.factorial(i);
+                     fact = object.factorial(i);
                  }
                  sum = sum + fact;
 
