@@ -11,12 +11,12 @@ public class AestricPyramid {
           System.out.print("Enter the value of n: ");
           n = sc.nextInt();
           if (n>0) {
-              for (row = 0; row < n; row++) {
-                  for (int space = 0; space < n-row; space++) {
+              for (row = 1; row <= n; row++) {
+                  for (int space = 1; space <= n-row; space++) {
 
                       System.out.print(" ");
                   }
-                  for (col = 0; col <= row; col++) {
+                  for (col = 1; col <= row; col++) {
 
                       System.out.print("* ");
                   }

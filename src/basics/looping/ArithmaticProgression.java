@@ -7,15 +7,15 @@ public class ArithmaticProgression {
         int a, n, diff, sum=0;
         Scanner sc = new Scanner(System.in);
       try {
-          System.out.println("Input the number of items for the A.P. series: ");
+          System.out.print("Input the number of items for the A.P. series: ");
           n = sc.nextInt();
-          System.out.println("Input the starting number of the A.P. series: ");
+          System.out.print("Input the starting number of the A.P. series: ");
           a = sc.nextInt();
-          System.out.println("Input the common difference of A.P. series: ");
+          System.out.print("Input the common difference of A.P. series: ");
           diff = sc.nextInt();
           if (n>0) {
               for (int i = 0; i < n; i++) {
-                  System.out.print(+ a + "+");
+                  System.out.print( a + "+");
                   sum = sum + a;
                   a = a + diff;
 

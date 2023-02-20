@@ -7,7 +7,7 @@ public class AestricTriangle {
       try {
           int i, j, n;
           Scanner sc = new Scanner(System.in);
-          System.out.println("Enter the value of n: ");
+          System.out.print("Enter the value of n: ");
           n = sc.nextInt();
           if (n>0) {
               for (i = 1; i <= n; i++) {

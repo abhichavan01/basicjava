@@ -25,7 +25,7 @@ public class SumOfTwoPrimes {
                 System.out.println(number + " cannot be expressed as the sum of two prime numbers.");
         }
 
-        //function to check if given number is prime or not
+
         static boolean primeNumber(int num) {
             boolean isPrime = true;
 
